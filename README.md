@@ -14,7 +14,7 @@ The page carries the full front-page apparatus: a giant date masthead, a six-num
 
 ## Files
 
-- `entry.png` — the finished image (1024×1024, 335,689 bytes)
+- `entry.png` — the finished image (1024×1024, 335,313 bytes)
 - `page.html` — the page source the image was rendered from (hand-written HTML/CSS/SVG, rendered with Playwright; three renders verified byte-identical)
 - `main.ts` — the entry program: copies `entry.png` to the output directory
 

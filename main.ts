@@ -3,7 +3,7 @@
 //
 // The page itself lives in page.html; it was rendered once, by hand, into the
 // entry.png beside this file (three renders, all byte-identical, sha256
-// 71d87b69…). This program only places that finished image where the grader
+// 3a401e33…). This program only places that finished image where the grader
 // looks for it, so both runs write identical bytes.
 //
 // Node 22, standard library only, no network. Local check:
